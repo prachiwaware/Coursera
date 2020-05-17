@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Assignment2_sol</title>
-<style>
-
 
 * {
   box-sizing: border-box;
@@ -121,34 +113,3 @@ p {
 
 }
   
-
-</style>
-</head>
-<body>
-<div class="demo">
-  <div id="head">
-    <h1>Our Menu</h1>
-  </div>
-  <div id="p1">
-    <div id="c1">Chicken</div>
-    <p>
-      Iorern ipsum dolor sit amet,consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore mangna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    </p>
-  </div>
-  <div id="p2">
-    <div id="c2">Beef</div>
-    <p>
-      Iorern ipsum dolor sit amet,consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore mangna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    </p>
-  </div>
-  <div id="p3">
-    <div id="c3">Sushi</div>
-    <p>
-      Iorern ipsum dolor sit amet,consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore mangna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    </p>
-  </div>
-</div>
-</body>
-</html>
-
-
